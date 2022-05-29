@@ -1,0 +1,11 @@
+Model Information:
+* title:	210 kabinet
+* source:	https://sketchfab.com/3d-models/210-kabinet-ccc6784ca62543f4829d4b83a5dacef6
+* author:	dolbarez (https://sketchfab.com/dolbarez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "210 kabinet" (https://sketchfab.com/3d-models/210-kabinet-ccc6784ca62543f4829d4b83a5dacef6) by dolbarez (https://sketchfab.com/dolbarez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
