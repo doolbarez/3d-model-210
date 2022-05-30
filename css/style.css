@@ -25,7 +25,7 @@
 
 /* This styles the heading in the 3D description */
 #content h2 {
-    position: top-right;
+    position: center;
     font-size: 18px;
     color: grey;
 }
@@ -49,8 +49,8 @@
     background: navy;
 }
 #aSide {
-    height: 600px;
-    width: 600px;
+    height: 800px;
+    width: 800px;
     position: center;
 }
 
