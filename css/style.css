@@ -25,16 +25,10 @@
 
 /* This styles the heading in the 3D description */
 #content h2 {
-    font-size: 140px;
+    position: top-right;
+    font-size: 18px;
     color: grey;
 }
-
-/* This styles the paragraph in the 3D description*/
-#content p {
-    font-size: 20px;
-    color: rgb(189, 189, 189);
-}
-
 /* This styles the button in the 3D description*/
 #content button {
     width: 35%;
@@ -57,9 +51,7 @@
 #aSide {
     height: 600px;
     width: 600px;
-    position: absolute;
-    top: calc(50% - 200px);
-    right: 7%;
+    position: center;
 }
 
 /* This styles the 3D object inserted in the aside container */
