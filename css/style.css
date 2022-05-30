@@ -19,15 +19,17 @@
     height: 500px;
     width: 700px;
     position: absolute;
-    left: 12%;
-    top: calc(50% - 250px);
+    left: 600;
+    top: 100;
 }
 
 /* This styles the heading in the 3D description */
 #content h2 {
-    position: absolute;
-    text-align: center;
+    position: center;
     font-size: 18px;
+    text-align:center;
+    top: 200px;
+    left: 400px;
     color: grey;
 }
 /* This styles the button in the 3D description*/
@@ -50,18 +52,17 @@
     background: navy;
 }
 #aSide {
-    height: 960px;
-    width: 540px;
-    position: absolute;
-    
+    height: 1200px;
+    width: 1200px;
+    position: center-center;
 }
 
 /* This styles the 3D object inserted in the aside container */
 #aSide model-viewer {
-    height: 1280px;
-    width: 720px;
+    height: 1920px;
+    width: 1080px;
     position: absolute;
-    top: 0;
-    left: 0;
+    top: -400;
+    left: 500;
     border: none;
 }
