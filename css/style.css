@@ -50,16 +50,16 @@
     background: navy;
 }
 #aSide {
-    height: 800px;
-    width: 800px;
+    height: 960px;
+    width: 540px;
     position: absolute;
-    align:center-center;
+    
 }
 
 /* This styles the 3D object inserted in the aside container */
 #aSide model-viewer {
-    height: 600px;
-    width: 700px;
+    height: 1280px;
+    width: 720px;
     position: absolute;
     top: 0;
     left: 0;
